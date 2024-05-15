@@ -1,5 +1,6 @@
 # Airfoil Morphing Tool
-This MATLAB live code tool can be used to morph any given airfoil with user-defined flap and slat settings. 
+This MATLAB live code tool can be used to morph any given airfoil with user-defined flap and slat settings, this is more interactive. 
+There is also a matlab code file, just import the file to the location of the code file and use the correct file name to import the NACA airfoil file.
 Two types of flaps and slats can be generated using this tool - ***Hinged*** and ***Continuous***
 
 #### INSTRUCTIONS TO USE THE TOOL
